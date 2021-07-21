@@ -6,7 +6,7 @@ mudando apenas o final desse codigo o gallery para camera voce irá enviar uma f
  
  "var image = await ImagePicker.pickImage(source: ImageSource.gallery); " 
  
- ![Alt text](blob:https://web.whatsapp.com/c0fc3b4e-2264-44fb-90e0-6afa5c59ea59 "Foto do layout do app com a foto inserida tirada na hora")
+ ![Alt text](https://onedrive.live.com/?authkey=%21AEoFssb1TH4s9F8&cid=C3955FF453976C36&id=C3955FF453976C36%213787&parId=C3955FF453976C36%213786&o=OneUp "Foto do layout do app com a foto inserida tirada na hora")
 
 
 
